@@ -97,7 +97,7 @@ namespace osu.Game.Input.Bindings
             new KeyBinding(InputKey.KeypadEnter, GlobalAction.Select),
 
             new KeyBinding(InputKey.Escape, GlobalAction.Back),
-            new KeyBinding(InputKey.ExtraMouseButton1, GlobalAction.Back),
+            new KeyBinding(InputKey.MouseMiddle, GlobalAction.Back),
 
             new KeyBinding(new[] { InputKey.Alt, InputKey.Home }, GlobalAction.Home),
 
